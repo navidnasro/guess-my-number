@@ -36,7 +36,3 @@ A simple Java-based number guessing game where the player tries to guess a rando
 
 ## License  
 This project is licensed under the **MIT License**.  
-
----
-
-Feel free to update the repository URL once you upload your project! 🚀  
